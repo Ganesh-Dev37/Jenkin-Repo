@@ -7,6 +7,8 @@ public class JenkinsClassTest {
 	public void jenkin()
 	{
 		System.out.println("Jenkins Class Created");
+		
+		System.out.println("Jenkins class added");
 	}
 
 }
